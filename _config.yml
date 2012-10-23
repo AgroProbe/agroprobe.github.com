@@ -12,10 +12,10 @@ pygments: true
 title : AgroProbe Blog
 tagline: Delving the Depths of Agronomy
 author : 
-  name : Zach Wick
-  email : zwick@agroprobe.com
+  name :
+  email : blog@agroprobe.com
   github : AgroProbe
-  twitter : @AgroProbe
+  twitter : AgroProbe
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
